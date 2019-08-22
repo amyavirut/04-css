@@ -1,0 +1,12 @@
+.wrap {
+    display: grid;
+    grid-template-columns: 25% 25% 50%;
+}
+
+div > .product:first-child {
+    background-color: lightsalmon;
+}
+
+div > .product:nth-child(2) {
+    background-color: lightskyblue;
+}

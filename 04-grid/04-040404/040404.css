@@ -1,0 +1,16 @@
+.wrap {
+    display: grid;
+    grid-template-columns: 1fr 6fr 4fr;   
+}
+
+.sidebar {
+    background-color: lightsalmon
+}
+
+.content {
+    background-color: lightskyblue
+}
+
+.ads {
+    background-color: lightpink
+}

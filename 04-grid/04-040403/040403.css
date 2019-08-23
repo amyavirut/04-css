@@ -1,5 +1,5 @@
-.wrap {
-    display: grid;
+.layout {
+    display: wrap;
     grid-template-columns: 1fr 4fr;   
 }
 

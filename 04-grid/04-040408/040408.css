@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+}
+
+.layout {
+    display: grid;
+    grid-template-columns: 20vw 80vw;
+    grid-template-rows: 100vh;
+}
+
+.sidebar {
+    background-color: rgb(255,99, 71);
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-column-gap: 25px;
+    grid-row-gap: 25px;
+    background-color: rgb(48, 48, 48);
+    padding: 25px;
+}
+
+.product {
+    background-color: white;
+}

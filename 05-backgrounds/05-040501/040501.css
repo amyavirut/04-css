@@ -1,0 +1,9 @@
+.beach {
+    background-image: url('beach.jpg');
+    background-repeat: no-repeat;
+    width: 1104px;
+    height: 656px;
+    font-size: 100px;
+    color: white;
+    text-align: right;
+}

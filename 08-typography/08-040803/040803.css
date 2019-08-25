@@ -15,17 +15,18 @@ small {
     margin: 5px;
     font-family: 'Open Sans', sans-serif;
     color: grey;
+    line-height: 200%;
 }
 
 p {
     margin: 5px;
     font-family: 'Open Sans', sans-serif;
-    
 }
 
 a {
     margin: 5px;
     font-family: 'Lato', sans-serif;
     color: lightcoral;
+    line-height: 200%;
 }
 

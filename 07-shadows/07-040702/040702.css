@@ -1,0 +1,18 @@
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 3fr;    
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 0px 14px rgba(71, 68, 68, 0.5);
+}
+
+.square1 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 10px 10px rgba(71, 68, 68, 0.5);
+}

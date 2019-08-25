@@ -1,0 +1,27 @@
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 2fr;
+    
+}
+
+.content > div {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 14px rgba(71, 68, 68, 0.5);
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+}
+
+.squircle {
+    height: 100px;
+    width: 100px;
+    border-radius: 5%;
+}
+
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}

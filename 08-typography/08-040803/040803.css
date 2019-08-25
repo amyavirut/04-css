@@ -1,0 +1,31 @@
+div {
+    width: 403px;
+    height: 250px;
+    display: block;
+    border: 1px solid grey;
+    padding: 21px;
+}
+
+h1 {
+    margin: 5px;
+    font-family: 'Roboto Slab', serif;
+}
+
+small {
+    margin: 5px;
+    font-family: 'Open Sans', sans-serif;
+    color: grey;
+}
+
+p {
+    margin: 5px;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+a {
+    margin: 5px;
+    font-family: 'Lato', sans-serif;
+    color: lightcoral;
+}
+
